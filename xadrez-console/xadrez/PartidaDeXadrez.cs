@@ -250,8 +250,6 @@ namespace xadrez
             return aux;
         }
 
-
-
         private Cor adversaria(Cor cor)
         {
 
@@ -265,7 +263,6 @@ namespace xadrez
             }
         }
 
-
         private Peca rei(Cor cor)
         {
             foreach (Peca x in pecasEmJogo(cor))
@@ -278,17 +275,12 @@ namespace xadrez
             return null;
         }
 
-
         public bool estaEmXeque(Cor cor)
         {
-
             Peca R = rei(cor);
-
             if (R == null)
             {
-
                 throw new TabuleiroException("Não tem rei da cor " + cor + " no tabuleiro!");
-
             }
             foreach (Peca x in pecasEmJogo(adversaria(cor)))
             {
