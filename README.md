@@ -74,6 +74,10 @@ cd xadrez-console
 
 After merging your receipt request to done, you can delete a branch from yours.
 
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/EliezerGarbin/NLW01-Booster/blob/master/LICENSE) for details.
+
 Made with by Eliézer Garbin :wave: [Get in touch!](https://www.linkedin.com/in/eliezergarbin/)
 
 [csharp]: https://docs.microsoft.com/pt-br/dotnet/csharp/
