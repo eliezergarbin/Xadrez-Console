@@ -1,20 +1,20 @@
-# xadrez-console
+# Xadrez Console
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliezerGarbin/xadrez-console?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliezerGarbin/Xadrez-Console?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliezerGarbin/xadrez-console">
 	
   <a href="https://www.linkedin.com/in/eliezergarbin/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-EliezerGarbin-%2304D361">
+    <img alt="Made by EliezerGarbin" src="https://img.shields.io/badge/made%20by-EliezerGarbin-%2304D361">
   </a>
 
   <a href="https://github.com/DanielObara/NLW-1.0/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliezerGarbin/xadrez-console">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliezerGarbin/Xadrez-Console">
   </a>
 
    <a href="https://github.com/EliezerGarbin/NLW01-Booster/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/EliezerGarbin/xadrez-console?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/EliezerGarbin/Xadrez-Console?style=social">
   </a>
   
 <p align="center">
@@ -59,7 +59,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/EliezerGarbin/xadrez-console.git
+$ git clone https://github.com/EliezerGarbin/Xadrez-Console.git
 
 cd xadrez-console
 
