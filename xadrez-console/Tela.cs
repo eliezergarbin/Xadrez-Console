@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using tabuleiro;
 using xadrez;
 
-
 namespace xadrez_console
 {
     class Tela
@@ -63,8 +62,6 @@ namespace xadrez_console
                 for (int j = 0; j < tab.colunas; j++)
                 {
                     imprimirPeca(tab.peca(i, j));
-
-
                 }
                 Console.WriteLine();
             }
@@ -85,7 +82,6 @@ namespace xadrez_console
                     if (posicoePossiveis[i, j] )
                     {
                         Console.BackgroundColor = fundoAlterado;
-
                     }
                     else
                     {
@@ -93,8 +89,6 @@ namespace xadrez_console
                     }
                     imprimirPeca(tab.peca(i, j));
                     Console.BackgroundColor = fundoOriginal;
-
-
                 }
                 Console.WriteLine();
             }
@@ -119,7 +113,6 @@ namespace xadrez_console
             }
             else
             {
-
                 if (peca.cor == Cor.Branca)
                 {
                     Console.Write(peca);
