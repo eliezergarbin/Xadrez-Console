@@ -24,7 +24,7 @@
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## 💻 Project
+## Project 💻
 
 Xadrez no console as the name says is a chess game that can be played as soon as you choose a letter and the position number of your piece to move to its destination.
 
@@ -36,7 +36,7 @@ Xadrez no console as the name says is a chess game that can be played as soon as
   </h1>
 </div>
 
-## :rocket: Technologies
+## Technologies :rocket:
 
 This project was developed with the following technologies:
 
@@ -49,7 +49,7 @@ this project is part of a series of studies to improve my knowledge in C#, and n
 In addition, you can download and install this project and use it as you wish, either to study or make improvements with it.
 enjoy!
 
-## :information_source: How To Use
+## How To Use :information_source:
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [.NET Core][dotnet] + [Visual Studio][vs]  installed on your computer.
 
@@ -65,7 +65,7 @@ cd xadrez-console
 
 ```
 
-## 🤔 How to contribute
+## How to contribute 🤔
 
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
@@ -74,7 +74,7 @@ cd xadrez-console
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :memo: License
+## License :memo:
 
 This project is under the MIT license. See the [LICENSE](https://github.com/EliezerGarbin/NLW01-Booster/blob/master/LICENSE) for details.
 
