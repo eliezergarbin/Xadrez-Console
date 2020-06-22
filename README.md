@@ -1,4 +1,11 @@
 # Xadrez Console
+<h1 align="center">
+    <img alt="Xadrez-Console" title="Xadrez-Console" src="https://github.com/EliezerGarbin/Xadrez-Console/blob/master/githubImg/peao.png" width="250px" />
+</h1>
+
+<h4 align="center"> 
+	 Xadrez-Console  
+</h4>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliezerGarbin/Xadrez-Console?color=%2304D361">
