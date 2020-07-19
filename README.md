@@ -33,7 +33,7 @@
 
 ## Project 💻
 
-Xadrez no console as the name says is a chess game that can be played as soon as you choose a letter and the position number of your piece to move to its destination.
+Xadrez no console as the name says, is a chess game that can be played as soon as you choose a letter and the position number of your piece to move to its destination.
 
 <div>
   <h1 align="center">
@@ -51,7 +51,7 @@ This project was developed with the following technologies:
 
 ## Why ❓
 
-this project is part of a series of studies to improve my knowledge in C#, and now it will be part of my portfolio, so I will be happy if you can provide me with any feedback on the code, the structure or anything you can report that you can tell me make a better developer.
+This project is part of a series of studies to improve my knowledge in C#, and now it will be part of my portfolio, so I will be happy if you can provide me with any feedback on the code, the structure or anything you can report that you can tell me make a better developer.
 
 In addition, you can download and install this project and use it as you wish, either to study or make improvements with it.
 enjoy!
